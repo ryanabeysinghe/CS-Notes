@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "create a link.md",
+                "file": "CS-Notes/Data Structures/Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create a link.md",
+                "file": "CS-Notes/Data Structures/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "create a link.md",
+                "file": "CS-Notes/Data Structures/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "create a link.md"
+                "file": "CS-Notes/Data Structures/Arrays.md"
               }
             }
           }
@@ -148,19 +148,23 @@
   },
   "active": "f2c3e2d4e4c74eff",
   "lastOpenFiles": [
+    "CS-Notes",
+    "CS-Notes/Git/Git Commands.md",
+    "CS-Notes/Data Structures/Arrays.md",
+    "CS-Notes/Git/GitHub.md",
+    "CS-Notes/Programming Languages/JavaScript/JavaScript Notes.md",
+    "create a link.md",
+    "Programming Languages/JavaScript/Untitled",
     "Welcome.md",
     "clone.md",
     "CS-Notes",
     "CS-Notes/hello.md",
-    "create a link.md",
-    "Git/Git Commands.md",
     "CS-Notes",
-    "Git/GitHub.md",
     "2024-07-10.md",
-    "Git",
-    "Data Structures",
-    "Programming Languages/JavaScript",
-    "Programming Languages",
+    "CS-Notes/Git",
+    "CS-Notes/Data Structures",
+    "CS-Notes/Programming Languages/JavaScript",
+    "CS-Notes/Programming Languages",
     "Untitled.md"
   ]
 }
