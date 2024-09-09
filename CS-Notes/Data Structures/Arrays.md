@@ -1,4 +1,4 @@
-<font size=5>hi</font>
+
 <strong><font size=5>What is an array?</font></strong> 
 - An array is a <u>linear data structure</u> where all elements are arranged sequentially. It is a collection of elements of <strong>same data type</strong> stored at contiguous memory locations. 
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b94923dd9cbd078b",
+        "id": "d7835bb75938e465",
         "type": "tabs",
         "children": [
           {
-            "id": "a72ce0dcef6aaf69",
+            "id": "e28a980b6a8e4587",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,30 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a72ce0dcef6aaf69",
+  "active": "e28a980b6a8e4587",
   "lastOpenFiles": [
-    "CS-Notes/images/arrays_1.png",
+    "create a link.md",
+    "CS-Notes/Data Structures/Data Structures.md",
     "CS-Notes/Data Structures/Arrays.md",
+    "CS-Notes/Git/Git Commands.md",
+    "CS-Notes/Git/GitHub.md",
+    "CS-Notes/Data Structures/Stack.md",
+    "CS-Notes/Data Structures/Tree.md",
+    "CS-Notes/images/arrays_1.png",
     "CS-Notes/images/Pasted image 20240809115104.png",
     "CS-Notes/Programming Languages/TypeScript",
     "CS-Notes/Programming Languages/CSS",
     "CS-Notes/Programming Languages/HTML",
-    "CS-Notes/Data Structures/Data Structures.md",
     "CS-Notes/images",
-    "create a link.md",
     "CS-Notes/Programming Languages/Python",
     "CS-Notes/Programming Languages/C",
     "CS-Notes/Programming Languages/C_Sharp",
-    "CS-Notes/Git/Git Commands.md",
     "CS-Notes/Data Structures/Linked List.md",
     "CS-Notes/Data Structures/Hash Tables.md",
     "CS-Notes/Programming Languages/JavaScript/JavaScript Notes.md",
-    "CS-Notes/Data Structures/Stack.md",
-    "CS-Notes/Data Structures/Tree.md",
     "CS-Notes/Data Structures/Queue.md",
     "CS-Notes/Data Structures/Graph.md",
     "CS-Notes",
-    "CS-Notes/Git/GitHub.md",
     "Programming Languages/JavaScript/Untitled",
     "Welcome.md",
     "clone.md",
