@@ -13,7 +13,7 @@
 
 <strong>Static vs Dynamic Arrays</strong>
 1) Static Arrays - Memory is allocated at compile time having fixed size of it. Cannot alter or update the size of static arrays. 
-```
+```java
 Ex. in Java
 
 int a[5] = {1, 2, 3, 4, 5};
@@ -22,7 +22,7 @@ a[5] --> [1, 2, 3, 4, 5]
 ```
 
 2) Dynamic Arrays - Memory is allocated at run time but not having a fixed size. 
-```
+```java
 Ex. in Java
 
 int *a = new int [5];
@@ -32,7 +32,7 @@ int *a = new int [5];
 
 <strong><font size=4>Declaring an array</font></strong>:
 Java: 
-```
+```java
 data_type name[] = new data_type[size];
 
 int arr[] = new int[5];
